@@ -1,0 +1,94 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "eslint-plugin-sm",
+        "scope": null,
+        "escapedName": "eslint-plugin-sm",
+        "name": "eslint-plugin-sm",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\Sanjay\\1808\\new-rule"
+    ]
+  ],
+  "_from": "eslint-plugin-sm@latest",
+  "_id": "eslint-plugin-sm@0.0.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/eslint-plugin-sm",
+  "_nodeVersion": "4.4.4",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/eslint-plugin-sm-0.0.3.tgz_1467555297258_0.4190715707372874"
+  },
+  "_npmUser": {
+    "name": "molee1905",
+    "email": "mr.lee1905@gmail.com"
+  },
+  "_npmVersion": "3.9.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "eslint-plugin-sm",
+    "scope": null,
+    "escapedName": "eslint-plugin-sm",
+    "name": "eslint-plugin-sm",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/eslint-plugin-sm/-/eslint-plugin-sm-0.0.3.tgz",
+  "_shasum": "dadd3dffd3a2860a70b1322fd923dc73060d11ac",
+  "_shrinkwrap": null,
+  "_spec": "eslint-plugin-sm",
+  "_where": "D:\\Sanjay\\1808\\new-rule",
+  "author": {
+    "name": "molee1905"
+  },
+  "bugs": {
+    "url": "https://github.com/molee1905/eslint-plugin-sm/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.12.0"
+  },
+  "description": "eslint plugin for sm",
+  "devDependencies": {
+    "eslint": ">=2.10.2"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dist": {
+    "shasum": "dadd3dffd3a2860a70b1322fd923dc73060d11ac",
+    "tarball": "https://registry.npmjs.org/eslint-plugin-sm/-/eslint-plugin-sm-0.0.3.tgz"
+  },
+  "gitHead": "f80cbcd3e79f498e77a5d0d560772cf9975827a2",
+  "homepage": "https://github.com/molee1905/eslint-plugin-sm#readme",
+  "keywords": [
+    "eslint",
+    "plugin"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "molee1905",
+      "email": "mr.lee1905@gmail.com"
+    }
+  ],
+  "name": "eslint-plugin-sm",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/molee1905/eslint-plugin-sm.git"
+  },
+  "scripts": {
+    "test": "mocha --R foo tests"
+  },
+  "version": "0.0.3"
+}
