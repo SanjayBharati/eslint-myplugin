@@ -1,6 +1,6 @@
-# eslint-plugin-sm
+# eslint-plugin-myplugin
 
-eslint plugin for sm
+eslint plugin for myplugin
 
 ## Installation
 
@@ -16,7 +16,7 @@ Next, install `eslint-plugin-myplugin`:
 $ npm install eslint-plugin-myplugin -g
 ```
 
-**Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-sm` globally.
+**Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-myplugin` globally.
 
 ## Usage
 
@@ -44,7 +44,7 @@ Then configure the rules you want to use under the rules section. For now, the f
 ```
 ## Example 
 
-with shareable config:  [eslint-config-sm](https://www.npmjs.com/package/eslint-config-sm) and this plugin:
+with shareable config:  [eslint-config-myplugin](https://www.npmjs.com/package/eslint-config-myplugin) and this plugin:
 
 ```
 {
