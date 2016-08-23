@@ -10,10 +10,10 @@ You'll first need to install [ESLint](http://eslint.org):
 $ npm i eslint -g
 ```
 
-Next, install `eslint-plugin-sm`:
+Next, install `eslint-plugin-myplugin`:
 
 ```
-$ npm install eslint-plugin-sm -g
+$ npm install eslint-plugin-myplugin -g
 ```
 
 **Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-sm` globally.
